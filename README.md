@@ -1,1 +1,1 @@
-![[book.png]]
+![Book](book.png)
